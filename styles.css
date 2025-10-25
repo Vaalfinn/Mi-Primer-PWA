@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    color: #15ca8e;
+}
+
+img {
+    width: 150px;
+    margin-top: 15px;
+}
+
+#api-data {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #9eafd8;
+    border-radius: 8px;
+    display: inline-block;
+}
